@@ -1,12 +1,12 @@
 {
-  "gateway_url": "https://smooth-teachers-twelve-archived.trycloudflare.com",
-  "updater_url": "https://smooth-teachers-twelve-archived.trycloudflare.com",
+  "gateway_url": "https://communication-locking-llc-yoga.trycloudflare.com",
+  "updater_url": "https://communication-locking-llc-yoga.trycloudflare.com",
   "version_code": 48,
   "version_name": "3.7.8",
   "latest_version_code": 48,
   "latest_version_name": "3.7.8",
   "app_state": "READY",
-  "wss_url": "wss://smooth-teachers-twelve-archived.trycloudflare.com",
+  "wss_url": "wss://communication-locking-llc-yoga.trycloudflare.com",
   "update_available": false,
   "force_update": false
 }
