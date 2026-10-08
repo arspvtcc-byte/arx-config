@@ -1,7 +1,12 @@
 {
-  "gateway_url": "https://athletic-silicon-fusion-spanking.trycloudflare.com",
-  "updater_url": "https://athletic-silicon-fusion-spanking.trycloudflare.com",
-  "version_code": 39,
-  "app_state": "COMING_SOON",
-  "wss_url": "wss://athletic-silicon-fusion-spanking.trycloudflare.com"
+  "gateway_url": "https://smooth-teachers-twelve-archived.trycloudflare.com",
+  "updater_url": "https://smooth-teachers-twelve-archived.trycloudflare.com",
+  "version_code": 48,
+  "version_name": "3.7.8",
+  "latest_version_code": 48,
+  "latest_version_name": "3.7.8",
+  "app_state": "READY",
+  "wss_url": "wss://smooth-teachers-twelve-archived.trycloudflare.com",
+  "update_available": false,
+  "force_update": false
 }
