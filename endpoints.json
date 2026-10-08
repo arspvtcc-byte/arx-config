@@ -1,6 +1,7 @@
 {
-  "gateway_url": "https://greene-suites-sms-net.trycloudflare.com",
-  "updater_url": "https://beverage-creativity-vegetables-foo.trycloudflare.com",
-  "version_code": 1,
-  "app_state": "COMING_SOON"
+  "gateway_url": "https://amsterdam-apart-final-assigned.trycloudflare.com",
+  "updater_url": "https://amsterdam-apart-final-assigned.trycloudflare.com",
+  "version_code": 39,
+  "app_state": "COMING_SOON",
+  "wss_url": "wss://amsterdam-apart-final-assigned.trycloudflare.com"
 }
