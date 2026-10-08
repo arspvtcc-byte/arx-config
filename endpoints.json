@@ -1,7 +1,9 @@
 {
-  "gateway_url": "https://amsterdam-apart-final-assigned.trycloudflare.com",
+  "gateway_url": "https://customs-jesus-number-ira.trycloudflare.com",
   "updater_url": "https://amsterdam-apart-final-assigned.trycloudflare.com",
-  "version_code": 39,
-  "app_state": "COMING_SOON",
-  "wss_url": "wss://amsterdam-apart-final-assigned.trycloudflare.com"
+  "version_code": 53,
+  "app_state": "READY",
+  "wss_url": "wss://customs-jesus-number-ira.trycloudflare.com",
+  "latest_version_code": 53,
+  "latest_version_name": "3.7.8"
 }
