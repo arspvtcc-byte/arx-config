@@ -1,12 +1,12 @@
 {
-  "gateway_url": "https://traveller-pace-age-impact.trycloudflare.com",
-  "updater_url": "https://traveller-pace-age-impact.trycloudflare.com",
+  "gateway_url": "https://plenty-totals-computed-out.trycloudflare.com",
+  "updater_url": "https://plenty-totals-computed-out.trycloudflare.com",
   "version_code": 48,
   "version_name": "3.7.8",
   "latest_version_code": 48,
   "latest_version_name": "3.7.8",
   "app_state": "READY",
-  "wss_url": "wss://traveller-pace-age-impact.trycloudflare.com",
+  "wss_url": "wss://plenty-totals-computed-out.trycloudflare.com",
   "update_available": false,
   "force_update": false
 }
