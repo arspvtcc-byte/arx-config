@@ -1,12 +1,12 @@
 {
-  "gateway_url": "https://customers-united-toward-interval.trycloudflare.com",
-  "updater_url": "https://customers-united-toward-interval.trycloudflare.com",
+  "gateway_url": "https://exhibits-linking-rid-rehab.trycloudflare.com",
+  "updater_url": "https://exhibits-linking-rid-rehab.trycloudflare.com",
   "version_code": 48,
   "version_name": "3.7.8",
   "latest_version_code": 48,
   "latest_version_name": "3.7.8",
   "app_state": "READY",
-  "wss_url": "wss://customers-united-toward-interval.trycloudflare.com",
+  "wss_url": "wss://exhibits-linking-rid-rehab.trycloudflare.com",
   "update_available": false,
   "force_update": false
 }
