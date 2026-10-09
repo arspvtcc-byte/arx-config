@@ -1,12 +1,12 @@
 {
-  "gateway_url": "https://exhibits-linking-rid-rehab.trycloudflare.com",
-  "updater_url": "https://exhibits-linking-rid-rehab.trycloudflare.com",
+  "gateway_url": "https://traveller-pace-age-impact.trycloudflare.com",
+  "updater_url": "https://traveller-pace-age-impact.trycloudflare.com",
   "version_code": 48,
   "version_name": "3.7.8",
   "latest_version_code": 48,
   "latest_version_name": "3.7.8",
   "app_state": "READY",
-  "wss_url": "wss://exhibits-linking-rid-rehab.trycloudflare.com",
+  "wss_url": "wss://traveller-pace-age-impact.trycloudflare.com",
   "update_available": false,
   "force_update": false
 }
