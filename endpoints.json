@@ -1,12 +1,12 @@
 {
-  "gateway_url": "https://variables-strict-plate-conditions.trycloudflare.com",
-  "updater_url": "https://variables-strict-plate-conditions.trycloudflare.com",
+  "gateway_url": "https://customers-united-toward-interval.trycloudflare.com",
+  "updater_url": "https://customers-united-toward-interval.trycloudflare.com",
   "version_code": 48,
   "version_name": "3.7.8",
   "latest_version_code": 48,
   "latest_version_name": "3.7.8",
   "app_state": "READY",
-  "wss_url": "wss://variables-strict-plate-conditions.trycloudflare.com",
+  "wss_url": "wss://customers-united-toward-interval.trycloudflare.com",
   "update_available": false,
   "force_update": false
 }
