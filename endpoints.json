@@ -1,7 +1,7 @@
 {
-  "gateway_url": "https://feeding-beliefs-santa-morning.trycloudflare.com",
-  "updater_url": "https://feeding-beliefs-santa-morning.trycloudflare.com",
+  "gateway_url": "https://input-rare-weights-heroes.trycloudflare.com",
+  "updater_url": "https://input-rare-weights-heroes.trycloudflare.com",
   "version_code": 39,
   "app_state": "COMING_SOON",
-  "wss_url": "wss://feeding-beliefs-santa-morning.trycloudflare.com"
+  "wss_url": "wss://input-rare-weights-heroes.trycloudflare.com"
 }
