@@ -1,7 +1,7 @@
 {
-  "gateway_url": "https://beverages-yacht-smallest-benchmark.trycloudflare.com",
-  "updater_url": "https://beverages-yacht-smallest-benchmark.trycloudflare.com",
+  "gateway_url": "https://single-strip-cam-columbus.trycloudflare.com",
+  "updater_url": "https://single-strip-cam-columbus.trycloudflare.com",
   "version_code": 39,
   "app_state": "COMING_SOON",
-  "wss_url": "wss://beverages-yacht-smallest-benchmark.trycloudflare.com"
+  "wss_url": "wss://single-strip-cam-columbus.trycloudflare.com"
 }
