@@ -1,7 +1,7 @@
 {
-  "gateway_url": "https://particularly-andy-source-approve.trycloudflare.com",
-  "updater_url": "https://particularly-andy-source-approve.trycloudflare.com",
+  "gateway_url": "https://cradle-dip-particular-beta.trycloudflare.com",
+  "updater_url": "https://cradle-dip-particular-beta.trycloudflare.com",
   "version_code": 39,
   "app_state": "COMING_SOON",
-  "wss_url": "wss://particularly-andy-source-approve.trycloudflare.com"
+  "wss_url": "wss://cradle-dip-particular-beta.trycloudflare.com"
 }
