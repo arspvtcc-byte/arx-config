@@ -1,7 +1,8 @@
 {
   "gateway_url": "https://famefactory.store",
   "updater_url": "https://famefactory.store",
-  "version_code": 71,
+  "version_code": 72,
   "app_state": "COMING_SOON",
-  "wss_url": "wss://famefactory.store"
+  "wss_url": "wss://famefactory.store",
+  "version_name": "3.8.17"
 }
